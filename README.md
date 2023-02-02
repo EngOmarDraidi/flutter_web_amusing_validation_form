@@ -1,17 +1,12 @@
-# test
+# Validate Form by amusing way
 
-A new Flutter project.
+## To Run code
 
-## Getting Started
+Clone the project
 
-This project is a starting point for a Flutter application.
+```batch
+  git clone https://github.com/EngOmarDraidi/flutter_web_amusing_validation_form.git
+```
+Create your project and paste the code inside it
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# flutter_web_amusing_validation_form
+**Video preview of project:**
